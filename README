@@ -1,4 +1,4 @@
-This script prints trades from Mt. Gox to the file specified by the FILEPATH variable.
+This script prints trades from Mt. Gox to the console. Using the --write-to-file option, trades are printed to the file specified by the FILEPATH variable.
 At each trade the time, price, and volume are displayed, followed by an average price of the last 100 BTC traded (the average initially counts up to 100 BTC until the actual average is displayed).
 
 You can use the GNOME applet COMPA to display the content of this file on your GNOME panel just by cat'in this file.
