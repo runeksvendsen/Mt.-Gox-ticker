@@ -1,0 +1,3 @@
+This script prints trades from Mt. Gox to the file specified by the FILEPATH variable.
+
+You can use the GNOME applet COMPA to display the content of this file on your GNOME panel just by cat'in this file.
